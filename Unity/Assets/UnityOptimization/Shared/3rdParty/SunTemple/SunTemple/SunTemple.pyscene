@@ -1,0 +1,9 @@
+# Load scene
+sceneBuilder.importScene("SunTemple.fbx")
+
+# Load environment map
+sceneBuilder.envMap = EnvMap("SunTemple_Skybox.hdr")
+
+# Adjust emissives to get well exposed image
+for m in sceneBuilder.materials:
+    m.emissiveFactor *= 1000

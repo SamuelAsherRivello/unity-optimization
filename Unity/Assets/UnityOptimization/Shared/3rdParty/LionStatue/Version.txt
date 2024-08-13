@@ -1,0 +1,5 @@
+Source Url: 
+* https://assetstore.unity.com/packages/3d/props/pbr-lion-statue-3-variants-168377
+
+Changelog: 
+* Moved to /Assets/3rdParty/

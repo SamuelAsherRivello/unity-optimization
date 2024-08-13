@@ -1,0 +1,5 @@
+Source Url: 
+* https://assetstore.unity.com/packages/tools/utilities/billboard-generator-free-290269
+
+Changelog: 
+* Moved to /Assets/3rdParty/

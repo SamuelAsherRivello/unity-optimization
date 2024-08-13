@@ -1,0 +1,20 @@
+Sun Temple
+
+v1: Initial release
+
+v2:
+- Added Metal/Rough materials for Falcor 3.0 (see Readme)
+- Adjusted color/intensity of point lights
+- Updated light probe
+- Renamed old light probe to SunTemple_Reflection_Interior.hdr
+- Defined light probe samples in .fscene
+- Added friendly names to light sources
+- Changed texture suffixes to BaseColor, Specular, Normal
+
+v3:
+- Removed absolute paths to textures in FBX file
+- Fixed emissive foliage in exterior
+
+v4:
+- Embedded all cameras, camera paths, and lighting in SunTemple.fbx
+- Replaced .fscene scene file with .pyscene scene file

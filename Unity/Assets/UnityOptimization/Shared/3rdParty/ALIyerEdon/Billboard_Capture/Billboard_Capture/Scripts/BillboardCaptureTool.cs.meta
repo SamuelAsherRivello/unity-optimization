@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b835e41332e878b42a819a48016c0a0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 290269
+  packageName: Billboard Generator Free
+  packageVersion: 1.1
+  assetPath: Assets/Billboard_Capture/Scripts/BillboardCaptureTool.cs
+  uploadId: 682108

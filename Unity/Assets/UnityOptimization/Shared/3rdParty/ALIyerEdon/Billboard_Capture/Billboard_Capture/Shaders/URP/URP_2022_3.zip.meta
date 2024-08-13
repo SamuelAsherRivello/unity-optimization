@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e219e9c47126c5845856b2bcf09686aa
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 290269
+  packageName: Billboard Generator Free
+  packageVersion: 1.1
+  assetPath: Assets/Billboard_Capture/Shaders/URP/URP_2022_3.zip
+  uploadId: 682108

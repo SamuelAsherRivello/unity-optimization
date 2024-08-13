@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36cf3b74950b299408cc642cd2423789, type: 3}
+  m_Name: ReadMe
+  m_EditorClassIdentifier: 
+  Title: Unity Optimization
+  Icon: {fileID: 2800000, guid: 7c0822b0780ca4a74b276e50db2c68a3, type: 3}
+  Sections:
+  - TextHeading: Welcome
+    TextSubheading: Showcase of Unity optimization
+    TextBody: Each demo has a complete before & after for comparison.
+    LinkName: GitHub.com/SamuelAsherRivello/unity-optimization
+    LinkUrl: https://github.com/SamuelAsherRivello/unity-optimization
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: See the complete optimization portfolio.
+    LinkName: SamuelAsherRivello.com/optimization-portfolio/
+    LinkUrl: https://samuelasherrivello.com/optimization-portfolio/
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: Getting Started
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: Each demo has a before & after.
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: Demos
+    PingObjectGuid: ffd023f9fbe7dfb498c91bcbaecbfe1f
+    MenuItemName: 
+    MenuItemPath: 
+  HasLoadedLayout: 0

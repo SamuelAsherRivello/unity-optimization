@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b33f74ce58e21ba49956f032b59989bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168377
+  packageName: PBR Lion Statue | 3 Variants
+  packageVersion: 1.0
+  assetPath: Assets/LionStatue/Materials/Lion/M_GoldHDRP.mat
+  uploadId: 543608

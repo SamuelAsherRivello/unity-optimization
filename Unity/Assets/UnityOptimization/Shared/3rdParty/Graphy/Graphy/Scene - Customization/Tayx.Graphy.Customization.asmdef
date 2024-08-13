@@ -1,0 +1,24 @@
+{
+    "name": "Tayx.Graphy.Customization",
+    "references": [
+        "GUID:18e5109d897e1b244ab2dfeaf5482c7b",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "GRAPHY_NEW_INPUT"
+        }
+    ],
+    "noEngineReferences": false
+}

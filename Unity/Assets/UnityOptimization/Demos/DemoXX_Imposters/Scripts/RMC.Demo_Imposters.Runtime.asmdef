@@ -1,0 +1,16 @@
+{
+    "name": "RMC.Demo_Imposters.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1bd920aa2cc01364d8e15ad9ca79abf3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

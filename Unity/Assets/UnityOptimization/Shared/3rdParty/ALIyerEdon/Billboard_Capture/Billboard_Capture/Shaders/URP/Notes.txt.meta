@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e28b1a90b337a64aba8052e9e258105
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 290269
+  packageName: Billboard Generator Free
+  packageVersion: 1.1
+  assetPath: Assets/Billboard_Capture/Shaders/URP/Notes.txt
+  uploadId: 682108

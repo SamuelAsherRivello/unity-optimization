@@ -1,0 +1,5 @@
+Source Url: 
+* https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-2018-4-check-out-starter-assets-first-person-thi-32351
+
+Changelog: 
+* Moved to /Assets/3rdParty/

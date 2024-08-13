@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b895518c823917c42a38449dc8df7d1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168377
+  packageName: PBR Lion Statue | 3 Variants
+  packageVersion: 1.0
+  assetPath: Assets/LionStatue/Materials/Podium/M_RefinedStoneHDRP.mat
+  uploadId: 543608

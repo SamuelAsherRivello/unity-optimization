@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UnityOptimization/Shared/Settings/UIToolkit/Styles/SharedStyles.uss?fileID=7433441132597879392&amp;guid=6ebbbe798c96bf344b8b9360316b9108&amp;type=3#SharedStyles" />
+    <engine:VisualElement name="Screen" class="screen" style="flex-grow: 1;">
+        <engine:VisualElement name="Header" class="header">
+            <engine:Label text="Label" name="TitleLabel" class="title-label label" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

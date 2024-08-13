@@ -1,0 +1,5 @@
+Source Url: 
+* https://discussions.unity.com/t/where-is-the-2d-sprite-package/816466
+
+Changelog: 
+* Moved to /Assets/3rdParty/

@@ -1,0 +1,23 @@
+.screen {
+}
+
+.header {
+    height: 8%;
+    justify-content: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.title-label {
+    font-size: 50px;
+    text-shadow: 1px 1px 10px rgb(255, 255, 255);
+}
+
+.label {
+    -unity-font-definition: url("project://database/Assets/UnityOptimization/Shared/Art/Fonts/KARNAKPRO-CONDENSEDBLACK.TTF?fileID=12800000&guid=5705de66672a26b49830c0eafdb7d4c0&type=3#KARNAKPRO-CONDENSEDBLACK");
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 0 rgb(0, 0, 0);
+}

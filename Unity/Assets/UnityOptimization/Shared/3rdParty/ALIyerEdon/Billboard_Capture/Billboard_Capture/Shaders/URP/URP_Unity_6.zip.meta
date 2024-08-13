@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5606c7b71fc62fa409a95cc174bb5e47
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 290269
+  packageName: Billboard Generator Free
+  packageVersion: 1.1
+  assetPath: Assets/Billboard_Capture/Shaders/URP/URP_Unity_6.zip
+  uploadId: 682108

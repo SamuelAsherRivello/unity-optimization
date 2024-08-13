@@ -1,0 +1,29 @@
+Hi
+
+This package is for "Built-in RP" for default
+The billboard capture tool works well on "URP"
+"HDRP" is not supported
+The billboard shaders are only for "Built-in RP" and "URP"
+
+for URP you need to unzip urp shaders from the "Shaders" folder for your target unity version and delete the "Built-In RP" folder
+
+Watch the video:
+https://drive.google.com/file/d/1KUbPbXXkfofG2cEnGbuV2k1AqCgvpBoX/view?usp=sharing
+
+
+Other assets:
+_____________________
+Complete Games Bundle
+https://assetstore.unity.com/packages/templates/packs/complete-games-bundle-116482
+_____________________
+
+Lighting Tools
+https://assetstore.unity.com/packages/tools/utilities/lighting-tools-107069
+_____________________
+
+Tree Creator Toolkit 2
+https://assetstore.unity.com/packages/tools/terrain/tree-creator-toolkit-2-279185
+_____________________
+
+Mobile Tree Bundle
+https://assetstore.unity.com/packages/3d/vegetation/trees/mobile-tree-bundle-254384

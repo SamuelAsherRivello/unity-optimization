@@ -1,0 +1,1 @@
+For "URP" you need to manually disable the "Receive Shadows" option in your material for imposter and billboard shaders
